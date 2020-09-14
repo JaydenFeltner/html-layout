@@ -1,0 +1,26 @@
+body {
+    margin: 0;
+    background-color: gray;
+    width: 100%;
+    height: 100%;
+}
+
+.header {
+    width: 100%;
+    height: 20vh;
+    background-color: #423f3f;
+  }
+  
+  .p {
+    background-color: #eee8e8;
+    margin: 0 auto;
+    width: 75%;
+    height: 70vh;
+  }
+  
+  .footer { 
+    background-color: #242222;
+    margin: 0 auto;
+    width: 75%;
+    height: 10vh;
+  }
